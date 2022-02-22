@@ -1,6 +1,6 @@
-              #**Surfs Up Analysis**
+              # **Surfs Up Analysis**
  
-##*Overview*
+## *Overview*
 
 Ths project focused on the temperatures of Oahu in June and December using the hawaii.sqlite database. The first step was to retrieve all of the temperatures for the month of June. The code and results are shown in the image below. The data was from 2010 to 2017.
 
@@ -42,7 +42,7 @@ Next the data was converted to a dataframe and then a statistical analysis as pe
 
 
 
-##*Results*
+## *Results*
 
 Differences observed between June and December temperatures:
 
@@ -53,7 +53,7 @@ Differences observed between June and December temperatures:
 -The maximum temperatures were the closest. For June is was 85 and the max temperature in December was 83.  
 
 
-##*Summary*
+## *Summary*
 
 Overall there is not a big difference in the temperatures in June and December in Oahu. The main takeways are the mornings might be colder in December.  Wet suits might be a more popular item in the surf shop during that time.  It appears the max temperatures are about the same. It gets a little warmer in June but the max temps only had a two degree difference. The average temperatures show it does average slightly cooler in December versus June. Overall there is little difference an surfing should be possible in both months when looking at the statistical analysis of the temperatures. The standard deviations were both around 3.5 if rounded down and up. The variability for both months were about the same.
 
